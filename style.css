@@ -3,6 +3,7 @@ ul li {
     display: inline;
     padding: 0px 8px 0px 0px ;
     font-size: 20px;
+    cursor: pointer;
 }
 
 li {
@@ -14,7 +15,8 @@ li {
 .logo {
     display: inline;
     margin: 0px 980px 0px 10px;
-    font-size: 20px;    
+    font-size: 20px; 
+    cursor: pointer;   
 }
 
 ul {
@@ -110,3 +112,5 @@ p {
     color: white;
     cursor: pointer;
 }
+
+
